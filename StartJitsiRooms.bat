@@ -8,10 +8,10 @@ set JitsiBasicurl=https://4365-jitsi-9ba14.nws.netways.de/
 set EtherpadBasicUrl=https://etherpad.wikimedia.org/p/
 
 REM Ask for user input
-set /P room="Raumbezeichnung:? "
+set /P room="Raumbezeichnung: "
 
 :enter_amount
-set /P "amount=Anzahl der Raeume:? "
+set /P "amount=Anzahl der Raeume: "
 echo %amount%|findstr /r "[^0-9]" && (
     echo Zahl eingeben
     goto :enter_amount
