@@ -1,9 +1,8 @@
+@echo off
 REM LKTools Jitsi Rooms V1
 REM ++++++++++++++++++++++++++
 REM by Matthias Rommel
 REM ReleaseDate: 2021-02-11
-
-@echo off
 
 set JitsiBasicurl=https://4365-jitsi-9ba14.nws.netways.de/
 set EtherpadBasicUrl=https://etherpad.wikimedia.org/p/
