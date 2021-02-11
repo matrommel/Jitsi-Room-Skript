@@ -1,9 +1,15 @@
 Erstellte Links:
 
-https://4365-jitsi-9ba14.nws.netways.de/aadfa1
-https://4365-jitsi-9ba14.nws.netways.de/aadfa2
+https://4365-jitsi-9ba14.nws.netways.de/IF11F_AWP_Raum1
+https://4365-jitsi-9ba14.nws.netways.de/IF11F_AWP_Raum2
+https://4365-jitsi-9ba14.nws.netways.de/IF11F_AWP_Raum3
+https://4365-jitsi-9ba14.nws.netways.de/IF11F_AWP_Raum4
+https://4365-jitsi-9ba14.nws.netways.de/IF11F_AWP_Raum5
 
 Erstellte Räume:
 
-https://etherpad.wikimedia.org/p/aadfa1
-https://etherpad.wikimedia.org/p/aadfa2
+https://etherpad.wikimedia.org/p/IF11F_AWP_Raum1
+https://etherpad.wikimedia.org/p/IF11F_AWP_Raum2
+https://etherpad.wikimedia.org/p/IF11F_AWP_Raum3
+https://etherpad.wikimedia.org/p/IF11F_AWP_Raum4
+https://etherpad.wikimedia.org/p/IF11F_AWP_Raum5
