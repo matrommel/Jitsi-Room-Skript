@@ -4,6 +4,8 @@ REM ++++++++++++++++++++++++++
 REM by Matthias Rommel
 REM ReleaseDate: 2021-02-11
 
+echo 
+
 set JitsiBasicurl=https://4365-jitsi-9ba14.nws.netways.de/
 set EtherpadBasicUrl=https://etherpad.wikimedia.org/p/
 
@@ -23,7 +25,7 @@ echo.>>StartJitsiRooms_Result.txt
 
 REM Lege Raueme an für angegeben Anzahl in der angegeben Menge
 FOR /L %%X IN (1,1,%amount%) DO (
-   start "" "C:\Users\mrommel\AppData\Local\Google\Chrome\Application\chrome.exe" -url "%JitsiBasicurl%%room%%%X"
+   start "" "%userprofile%\AppData\Local\Google\Chrome\Application\chrome.exe" -url "%JitsiBasicurl%%room%%%X"
    REM start "" "%basicurl%%room%%%X"
    echo %JitsiBasicurl%%room%%%X>>StartJitsiRooms_Result.txt
    echo Raum %%X gestartet.
